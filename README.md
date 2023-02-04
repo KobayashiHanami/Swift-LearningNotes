@@ -1,4 +1,6 @@
 # Swift-LearningNotes
+![0-0](./0-0.svg)
+
 `Swift -v: 5.7.2`
 
 这是我的 Swift 语法学习笔记
