@@ -1,5 +1,5 @@
 # Swift-LearningNotes
-- `Swift version 5.7.2`
+- `Swift -v: 5.7.2`
 
 
 
