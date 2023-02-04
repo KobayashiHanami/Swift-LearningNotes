@@ -1,5 +1,5 @@
 # Swift-LearningNotes
-![0-0](./0-0.svg)
+![0-0](./Resources/0-0.svg)
 
 `Swift -v: 5.7.2`
 
