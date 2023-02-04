@@ -1,6 +1,4 @@
 # Swift-LearningNotes
-<img src="./Resources/0-0.png" alt="0-0" style="zoom:25%;" />
-
 `Swift -v: 5.7.2`
 
 这是我的 Swift 语法学习笔记
