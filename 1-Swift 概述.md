@@ -63,16 +63,14 @@ let `let` = 2
 
 大驼峰命名法:首字母全部大写,Swift 中常用于数据类型的命名
 
-下划线命名法:python 使用,`var a = hello_swift`
+下划线命名法:python 使用,`var a = "hello_swift"`
 
 ## 4.函数
 
 用 `print()` 函数来输出一个或多个值到适当输出区
 
 ```swift
-print(_:separator:terminator:)
-print(friendlyWelcome)
-// 输出“Bonjour!”
+print("Hello Swift")
 ```
 
 ## 5.注释
