@@ -1,6 +1,4 @@
 # Swift-LearningNotes
-![0-0](./Resources/0-0.svg)
-
 - Version: Swift 5.7.2
 - Time: 2023-2
 
